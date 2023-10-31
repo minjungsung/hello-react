@@ -20,5 +20,6 @@
   "editor.autoClosingComments": "always",
   "editor.autoClosingQuotes": "always",
   "editor.defaultFormatter": "svipas.prettier-plus",
-  "files.trimTrailingWhitespace": true
+  "files.trimTrailingWhitespace": true,
+  "editor.tabSize": 2
 }
